@@ -20,3 +20,4 @@ tinyxml2/temp/
 *.vc.opendb
 libtinyxml2.a
 xmltest
+/.vs
